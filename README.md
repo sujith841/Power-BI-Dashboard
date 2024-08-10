@@ -1,5 +1,4 @@
 
-Certainly! Here’s a description you could use for a GitHub repository that showcases a Power BI dashboard project:
 
 Power BI Dashboard Project
 Overview
